@@ -1,18 +1,18 @@
 # Tools-Software-Used
 This repository documents a reproducible workflow used in the study: “_Brachyspira burroughii_ sp. nov., a novel intestinal spirochete isolated from pigs during swine dysentery surveillance: genomic and phenotypic characteristics.” 
+
 Raw read QC and preprocessing
 
-FastQC
+-FastQC
+-MultiQC
 
-MultiQC
+-Trimmomatic v0.39
 
-Trimmomatic v0.39
+-Guppy v6.4.6
 
-Guppy v6.4.6
+-SeqKit v2.9.0
 
-SeqKit v2.9.0
-
-NanoPlot v1.42.0
+-NanoPlot v1.42.0
 
 Genome assembly and polishing
 
